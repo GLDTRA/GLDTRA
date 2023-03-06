@@ -8,9 +8,10 @@ Hi devs 👋
 
 - Ordem dos repositorys: 
 
-  1o: Nome da linguagem computacional, 
-  2o: Número do projeto postado, em ordem cronológica
-  3o: Nome do projeto
-  
-  Peguem seu café, sentem na cadeira e Divirtam-se no meu github!! :D
+
+*1o: Computer language name<br>
+2nd: Posted project number, in chronological order<br> 
+3rd: Project name<br>
+
+Grab your coffee, sit in the gamer chair and have fun on my github! :D
   
