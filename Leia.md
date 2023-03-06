@@ -5,11 +5,12 @@ Hi devs 👋
 - 💬 Ask me about java, i love it!
 - 📫 How to reach me: hey bro! kkkk
 - ⚡ Fun fact: I so like of a D&D
+<br>
 
 - Ordem dos repositorys: 
 
 
-**1o: Computer language name<br>
+**1st: Computer language name<br>
 2nd: Posted project number, in chronological order<br> 
 3rd: Project name**<br>
 
